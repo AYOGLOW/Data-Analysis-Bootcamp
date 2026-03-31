@@ -12,3 +12,6 @@ Below is my picture.
 <img width=50% />
 
 
+> [!NOTE]
+> THis is a note!
+

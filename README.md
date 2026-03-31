@@ -13,5 +13,13 @@ Below is my picture.
 
 
 > [!NOTE]
-> THis is a note!
+> This is a note!
 
+> [!TIPS]
+> This is a tip!
+
+> [!IMPORTANT]
+> This is important!
+
+> [!WARNING]
+> This is a warning!

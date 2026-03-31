@@ -15,7 +15,7 @@ Below is my picture.
 > [!NOTE]
 > This is a note!
 
-> [!TIPS]
+> [!TIP]
 > This is a tip!
 
 > [!IMPORTANT]

@@ -5,6 +5,8 @@
 2. [Section 2](#section-2)
    - [A. Note](#A-Note)
    - [B. Tip](#B-Tip)
+   - [C. Note](#C-Important)
+   - [D. Tip](#D-Warning)
 
 ## Section 1
 This repositor is to talk about data analysis projects.

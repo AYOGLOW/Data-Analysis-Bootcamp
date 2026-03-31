@@ -4,7 +4,7 @@
 1. [Section 1](#section-1)
 2. [Section 2](#section-2)
    - [A. Note](#A-Note)
-   - [B. Toip](#B-Tip)
+   - [B. Tip](#B-Tip)
 
 ## Section 1
 This repositor is to talk about data analysis projects.

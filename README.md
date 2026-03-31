@@ -1,6 +1,10 @@
 # Data-Analysis-Bootcamp
 
 ## Table Of Content
+1. [Section 1](#section-1)
+2. [Section 2](#section-2)
+   - [A. Note](#A-Note)
+   - [B. Toip](#B-Tip)
 
 ## Section 1
 This repositor is to talk about data analysis projects.
@@ -8,7 +12,7 @@ This repositor is to talk about data analysis projects.
 This is a **bold** text.
 THis is an *ittalics*
 
-## Section w
+## Section 2
 Below is my picture.  
 ![pic](https://github.com/AYOGLOW/Data-Analysis-Bootcamp/blob/main/My%20Pictures/Image20260331143913.jpg)
 
